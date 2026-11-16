@@ -20,7 +20,7 @@ const deck = new Reveal({
   fragmentInURL: true,
   showNotes: false,
   pdfSeparateFragments: false,
-  totalTime: 1050,
+  totalTime: 900,
   plugins: [RevealNotes],
 });
 deck.initialize().then(() => {
